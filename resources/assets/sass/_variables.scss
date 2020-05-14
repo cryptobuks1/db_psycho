@@ -1,0 +1,46 @@
+:root{
+    --accent: #e1002d; //+++ ЗубановИА 22062019 Изменил чтоб красным было в Internet Explore, а было #50d3a0;
+    //--bg-color: #eff3f6;
+    --bg-color: #fff;
+    --base-color: #202a3d;
+}
+
+$bg-color: var(--bg-color);
+//$accent: #86d2a1;
+$accent: var(--accent);
+$white-color: #fff;
+$font-name: 'Proxima Nova';
+$base-font-size: 1rem;
+$base-color: var(--base-color);
+$fz-h1: 2.3rem;
+$border: 1px solid #ced0da;
+//$border-grey:#ced0da;
+
+$light-grey: #7c8ca5;
+$grey-font:#7f8c9e;
+$dark-grey:#788699;
+$border-grey:#e4e7ea;
+$modal-grey:#878f99;
+$bg-mobile-list: #f9f9f9;
+$invalid:#db637e;
+
+//$accent: var(--accent);
+//$accent: #e1002d;
+$darkAccent:#a2001e;
+$menubtnColor:#e1002d; //$accent; //Вернулся с psd
+
+$bgMenubtnColor:#1e2123;
+$sbarbg:#293036;
+$shadow:rgba(225, 0, 45, 0.19);
+$popupborder:#e0e1e6;
+$thbg:#9d9d9d;
+$tabbd:#e2e2e2;
+$tabcol:#5a6971;
+$lgrey:#f7f7f7;
+$table-color-text: #5f6970;
+$footer-text: #2f3339;
+
+$rbl-green:#008f62;
+$rbl-btn-empty-border:#e2e2e2;
+
+$faqsection:#efefef;

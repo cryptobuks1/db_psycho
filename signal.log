@@ -1,0 +1,275 @@
+Could not open input file: /home/site.com/kernel/artisan
+Could not open input file: /home/site.com/kernel/artisan
+Could not open input file: /home/site.com/kernel/artisan
+Could not open input file: /home/site.com/kernel/artisan
+Could not open input file: /home/site.com/kernel/artisan
+Could not open input file: /home/site.com/kernel/artisan
+Could not open input file: /home/site.com/kernel/artisan
+Could not open input file: /home/site.com/kernel/artisan
+Could not open input file: /home/site.com/kernel/artisan
+Could not open input file: /home/site.com/kernel/artisan
+Could not open input file: /home/site.com/kernel/artisan
+Could not open input file: /home/site.com/kernel/artisan
+Could not open input file: /home/site.com/kernel/artisan
+Could not open input file: /home/site.com/kernel/artisan
+Could not open input file: /home/site.com/kernel/artisan
+Could not open input file: /home/site.com/kernel/artisan
+its cron works!
+its cron works!
+its cron works!
+its cron works!
+its cron works!
+its cron works!
+its cron works!
+its cron works!
+its cron works!
+its cron works!
+its cron works!
+its cron works!
+its cron works!
+its cron works!
+its cron works!
+its cron works!
+its cron works!
+its cron works!
+its cron works!
+its cron works!
+its cron works!
+[2019-10-16 14:40:42] Processing: App\Jobs\SendRequestSignal
+[2019-10-16 14:40:43] Processed:  App\Jobs\SendRequestSignal
+[2019-10-16 14:41:00] Processing: App\Jobs\SendRequestSignal
+[2019-10-16 14:41:01] Processed:  App\Jobs\SendRequestSignal
+[2019-10-16 14:41:49] Processing: App\Jobs\SendRequestSignal
+[2019-10-16 14:41:50] Processed:  App\Jobs\SendRequestSignal
+[2019-10-16 14:55:54] Processing: App\Jobs\SendRequestSignal
+[2019-10-16 14:55:55] Processed:  App\Jobs\SendRequestSignal
+[2019-10-16 14:58:38] Processing: App\Jobs\SendRequestSignal
+[2019-10-16 14:58:38] Processed:  App\Jobs\SendRequestSignal
+[2019-10-16 14:59:15] Processing: App\Jobs\SendRequestSignal
+[2019-10-16 14:59:16] Processed:  App\Jobs\SendRequestSignal
+[2019-10-21 09:58:55] Processing: App\Jobs\SendRequestSignal
+[2019-10-21 09:59:02] Processed:  App\Jobs\SendRequestSignal
+[2019-10-21 09:59:33] Processing: App\Jobs\SendRequestSignal
+[2019-10-21 09:59:38] Processed:  App\Jobs\SendRequestSignal
+[2019-10-21 10:00:02] Processing: App\Jobs\SendRequestSignal
+[2019-10-21 10:00:06] Processing: App\Jobs\SendRequestSignal
+[2019-10-21 10:00:13] Processing: App\Jobs\SendRequestSignal
+[2019-10-21 10:00:14] Failed:     App\Jobs\SendRequestSignal
+[2019-10-21 10:01:32] Processing: App\Jobs\SendRequestSignal
+[2019-10-21 10:01:38] Processed:  App\Jobs\SendRequestSignal
+[2019-12-02 13:33:54] Processing: App\Jobs\SendRequestSignal
+[2019-12-02 13:33:55] Processing: App\Jobs\SendRequestSignal
+[2019-12-02 13:33:55] Processing: App\Jobs\SendRequestSignal
+[2019-12-02 13:33:55] Failed:     App\Jobs\SendRequestSignal
+[2019-12-04 13:48:13] Processing: App\Jobs\SendRequestSignal
+[2019-12-04 13:48:13] Processing: App\Jobs\SendRequestSignal
+[2019-12-04 13:48:13] Processing: App\Jobs\SendRequestSignal
+[2019-12-04 13:48:13] Failed:     App\Jobs\SendRequestSignal
+[2019-12-05 14:15:16] Processing: App\Jobs\SendRequestSignal
+[2019-12-05 14:15:16] Processing: App\Jobs\SendRequestSignal
+[2019-12-05 14:15:16] Processing: App\Jobs\SendRequestSignal
+[2019-12-05 14:15:16] Failed:     App\Jobs\SendRequestSignal
+[2019-12-05 14:15:52] Processing: App\Jobs\SendRequestSignal
+[2019-12-05 14:15:52] Processing: App\Jobs\SendRequestSignal
+[2019-12-05 14:15:52] Processing: App\Jobs\SendRequestSignal
+[2019-12-05 14:15:52] Failed:     App\Jobs\SendRequestSignal
+[2019-12-05 14:15:55] Processing: App\Jobs\SendRequestSignal
+[2019-12-05 14:15:55] Processing: App\Jobs\SendRequestSignal
+[2019-12-05 14:15:56] Processing: App\Jobs\SendRequestSignal
+[2019-12-05 14:15:56] Failed:     App\Jobs\SendRequestSignal
+[2019-12-05 14:33:47] Processing: App\Jobs\SendRequestSignal
+[2019-12-05 14:33:47] Processing: App\Jobs\SendRequestSignal
+[2019-12-05 14:33:47] Processing: App\Jobs\SendRequestSignal
+[2019-12-05 14:33:47] Failed:     App\Jobs\SendRequestSignal
+[2019-12-05 15:23:20] Processing: App\Jobs\SendRequestSignal
+[2019-12-05 15:23:20] Processing: App\Jobs\SendRequestSignal
+[2019-12-05 15:23:21] Processing: App\Jobs\SendRequestSignal
+[2019-12-05 15:23:21] Failed:     App\Jobs\SendRequestSignal
+[2019-12-05 16:59:57] Processing: App\Jobs\SendRequestSignal
+[2019-12-05 16:59:57] Processing: App\Jobs\SendRequestSignal
+[2019-12-05 16:59:57] Processing: App\Jobs\SendRequestSignal
+[2019-12-05 16:59:57] Failed:     App\Jobs\SendRequestSignal
+[2019-12-05 17:40:35] Processing: App\Jobs\SendRequestSignal
+[2019-12-05 17:40:35] Processing: App\Jobs\SendRequestSignal
+[2019-12-05 17:40:35] Processing: App\Jobs\SendRequestSignal
+[2019-12-05 17:40:35] Failed:     App\Jobs\SendRequestSignal
+[2019-12-05 17:40:41] Processing: App\Jobs\SendRequestSignal
+[2019-12-05 17:40:41] Processing: App\Jobs\SendRequestSignal
+[2019-12-05 17:40:41] Processing: App\Jobs\SendRequestSignal
+[2019-12-05 17:40:41] Failed:     App\Jobs\SendRequestSignal
+[2019-12-06 10:26:54] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 10:26:55] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 10:26:55] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 10:26:55] Failed:     App\Jobs\SendRequestSignal
+[2019-12-06 10:34:35] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 10:34:35] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 10:34:35] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 10:34:35] Failed:     App\Jobs\SendRequestSignal
+[2019-12-06 10:47:28] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 10:47:28] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 10:47:28] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 10:47:28] Failed:     App\Jobs\SendRequestSignal
+[2019-12-06 10:55:32] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 10:55:32] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 10:55:32] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 10:55:32] Failed:     App\Jobs\SendRequestSignal
+[2019-12-06 11:12:56] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 11:12:56] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 11:12:56] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 11:12:56] Failed:     App\Jobs\SendRequestSignal
+[2019-12-06 11:42:27] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 11:42:28] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 11:42:28] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 11:42:28] Failed:     App\Jobs\SendRequestSignal
+[2019-12-06 12:17:42] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 12:17:42] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 12:17:43] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 12:17:43] Failed:     App\Jobs\SendRequestSignal
+[2019-12-06 12:34:11] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 12:34:12] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 12:34:12] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 12:34:12] Failed:     App\Jobs\SendRequestSignal
+[2019-12-06 12:42:13] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 12:42:13] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 12:42:13] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 12:42:13] Failed:     App\Jobs\SendRequestSignal
+[2019-12-06 12:48:47] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 12:48:47] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 12:48:47] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 12:48:47] Failed:     App\Jobs\SendRequestSignal
+[2019-12-06 14:06:45] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 14:06:45] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 14:06:45] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 14:06:45] Failed:     App\Jobs\SendRequestSignal
+[2019-12-06 16:53:41] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 16:53:41] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 16:53:41] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 16:53:41] Failed:     App\Jobs\SendRequestSignal
+[2019-12-06 16:54:42] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 16:54:42] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 16:54:42] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 16:54:42] Failed:     App\Jobs\SendRequestSignal
+[2019-12-06 16:57:56] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 16:57:56] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 16:57:56] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 16:57:56] Failed:     App\Jobs\SendRequestSignal
+[2019-12-06 17:00:12] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 17:00:13] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 17:00:13] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 17:00:13] Failed:     App\Jobs\SendRequestSignal
+[2019-12-06 17:01:01] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 17:01:01] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 17:01:01] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 17:01:01] Failed:     App\Jobs\SendRequestSignal
+[2019-12-06 17:01:21] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 17:01:21] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 17:01:21] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 17:01:21] Failed:     App\Jobs\SendRequestSignal
+[2019-12-06 17:25:14] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 17:25:15] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 17:25:15] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 17:25:15] Failed:     App\Jobs\SendRequestSignal
+[2019-12-06 17:40:05] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 17:40:05] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 17:40:05] Processing: App\Jobs\SendRequestSignal
+[2019-12-06 17:40:05] Failed:     App\Jobs\SendRequestSignal
+[2019-12-09 12:05:50] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 12:05:50] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 12:05:51] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 12:05:51] Failed:     App\Jobs\SendRequestSignal
+[2019-12-09 12:06:03] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 12:06:03] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 12:06:03] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 12:06:03] Failed:     App\Jobs\SendRequestSignal
+[2019-12-09 14:33:08] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 14:33:08] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 14:33:09] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 14:33:09] Failed:     App\Jobs\SendRequestSignal
+[2019-12-09 14:33:30] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 14:33:30] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 14:33:30] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 14:33:30] Failed:     App\Jobs\SendRequestSignal
+[2019-12-09 14:34:35] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 14:34:35] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 14:34:35] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 14:34:35] Failed:     App\Jobs\SendRequestSignal
+[2019-12-09 14:35:35] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 14:35:35] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 14:35:35] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 14:35:35] Failed:     App\Jobs\SendRequestSignal
+[2019-12-09 14:36:50] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 14:36:50] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 14:36:50] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 14:36:50] Failed:     App\Jobs\SendRequestSignal
+[2019-12-09 14:39:12] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 14:39:13] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 14:39:13] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 14:39:13] Failed:     App\Jobs\SendRequestSignal
+[2019-12-09 14:40:07] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 14:40:07] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 14:40:07] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 14:40:07] Failed:     App\Jobs\SendRequestSignal
+[2019-12-09 14:55:32] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 14:55:32] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 14:55:32] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 14:55:32] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 14:55:32] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 14:55:32] Failed:     App\Jobs\SendRequestSignal
+[2019-12-09 14:55:32] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 14:55:32] Failed:     App\Jobs\SendRequestSignal
+[2019-12-09 15:09:02] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 15:09:02] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 15:09:02] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 15:09:02] Failed:     App\Jobs\SendRequestSignal
+[2019-12-09 15:12:10] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 15:12:10] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 15:12:11] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 15:12:11] Failed:     App\Jobs\SendRequestSignal
+[2019-12-09 15:12:18] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 15:12:18] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 15:12:18] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 15:12:18] Failed:     App\Jobs\SendRequestSignal
+[2019-12-09 15:19:35] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 15:19:35] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 15:19:36] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 15:19:36] Failed:     App\Jobs\SendRequestSignal
+[2019-12-09 15:20:33] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 15:20:33] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 15:20:33] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 15:20:33] Failed:     App\Jobs\SendRequestSignal
+[2019-12-09 15:25:44] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 15:25:44] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 15:25:45] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 15:25:45] Failed:     App\Jobs\SendRequestSignal
+[2019-12-09 15:25:50] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 15:25:50] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 15:25:50] Processing: App\Jobs\SendRequestSignal
+[2019-12-09 15:25:50] Failed:     App\Jobs\SendRequestSignal
+[2019-12-10 15:22:43] Processing: App\Jobs\SendRequestSignal
+[2019-12-10 15:22:43] Processing: App\Jobs\SendRequestSignal
+[2019-12-10 15:22:43] Processing: App\Jobs\SendRequestSignal
+[2019-12-10 15:22:43] Failed:     App\Jobs\SendRequestSignal
+[2019-12-11 11:19:55] Processing: App\Jobs\SendRequestSignal
+[2019-12-11 11:19:55] Processing: App\Jobs\SendRequestSignal
+[2019-12-11 11:19:55] Processing: App\Jobs\SendRequestSignal
+[2019-12-11 11:19:55] Failed:     App\Jobs\SendRequestSignal
+[2019-12-11 11:20:16] Processing: App\Jobs\SendRequestSignal
+[2019-12-11 11:20:16] Processing: App\Jobs\SendRequestSignal
+[2019-12-11 11:20:16] Processing: App\Jobs\SendRequestSignal
+[2019-12-11 11:20:16] Failed:     App\Jobs\SendRequestSignal
+[2019-12-11 11:20:21] Processing: App\Jobs\SendRequestSignal
+[2019-12-11 11:20:22] Processing: App\Jobs\SendRequestSignal
+[2019-12-11 11:20:22] Processing: App\Jobs\SendRequestSignal
+[2019-12-11 11:20:22] Failed:     App\Jobs\SendRequestSignal
+[2019-12-11 11:21:40] Processing: App\Jobs\SendRequestSignal
+[2019-12-11 11:21:40] Processing: App\Jobs\SendRequestSignal
+[2019-12-11 11:21:40] Processing: App\Jobs\SendRequestSignal
+[2019-12-11 11:21:40] Failed:     App\Jobs\SendRequestSignal
+[2019-12-11 11:26:49] Processing: App\Jobs\SendRequestSignal
+[2019-12-11 11:26:49] Processing: App\Jobs\SendRequestSignal
+[2019-12-11 11:26:50] Processing: App\Jobs\SendRequestSignal
+[2019-12-11 11:26:50] Failed:     App\Jobs\SendRequestSignal
+[2019-12-12 11:25:08] Processing: App\Jobs\SendRequestSignal
+[2019-12-12 11:25:09] Processed:  App\Jobs\SendRequestSignal
+[2019-12-12 11:25:45] Processing: App\Jobs\SendRequestSignal
+[2019-12-12 11:25:45] Processed:  App\Jobs\SendRequestSignal

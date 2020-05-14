@@ -1,0 +1,35 @@
+#stages:
+#  - dev
+#  - master
+#  - test
+#
+#before_script:
+#  - echo "before script"
+##  - cd /var/www/leasingdashboard.lardansoft.com/data/www
+##  - mkdir test
+##  - cd test
+##  - git clone git@git.new-consult.ru:dashboard_group/dashboard_back.git
+#
+#dev:
+#  stage: dev
+#  script:
+#    - echo "dev"
+#    - cd /var/www/leasingdashboard.lardansoft.com/data/www/leasingdashboard.lardansoft.com
+#    - git status
+#  only:
+#    - dev
+#
+#test:
+#  stage: test
+#  script:
+#    - echo "test"
+#  only:
+#    - dev
+#  when: always
+#
+#master:
+#  stage: master
+#  script:
+#    - echo "master"
+#  only:
+#    - master
