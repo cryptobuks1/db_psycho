@@ -56,4 +56,12 @@ class User extends Authenticatable
     public function user_role(){
         return $this->hasOne('App\Models\UserRole','id', 'role_id');
     }
+
+    public function Consumer(){
+        return $this->hasOne('App\Models\Consumer','user_id', 'id');
+    }
+
+    public function stages(){
+        return $this->hasMany('App\Models\Stage','teacher_id', 'id');
+    }
 }

@@ -5,16 +5,15 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Model;
 //use Illuminate\Support\Facades\Auth;
 
-class Diagnosis extends Model
+class Diagnostic extends Model
 {
-    protected $table = "Diagnoses";
+    protected $table = "Diagnostics";
 
     protected $primaryKey = "id";
 
     protected $fillable = [
-        'diagnosis_group_id',
-        'name',
-        'code',
+        'application_id',
+        'comment',
         'created_by',
         'updated_by'
     ];
@@ -30,8 +29,8 @@ class Diagnosis extends Model
     ];
 
 
-    public function diagnosis_group(){
-        return $this->hasMany('App\Models\DiagnosisGroup','id', 'diagnosis_group_id');
+    public function application(){
+        return $this->hasOne('App\Models\Application','id', 'application_id');
     }
 
     public function diagnostic_diagnoses(){

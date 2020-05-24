@@ -32,15 +32,19 @@ class Application extends Model
 
 
     public function application_type(){
-        return $this->hasMany('App\Models\ApplicationType','id', 'application_type_id');
+        return $this->hasOne('App\Models\ApplicationType','id', 'application_type_id');
     }
 
     public function status(){
-        return $this->hasMany('App\Models\Status','id', 'status_id');
+        return $this->hasOne('App\Models\Status','id', 'status_id');
     }
 
     public function child(){
-        return $this->hasMany('App\Models\Children','id', 'child_id');
+        return $this->hasOne('App\Models\Children','id', 'child_id');
+    }
+
+    public function diagnostics(){
+        return $this->hasMany('App\Models\Diagnostic','application_id', 'id');
     }
 
 }
