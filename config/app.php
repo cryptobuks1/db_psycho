@@ -180,17 +180,17 @@ return [
         /*
          * Application Service Providers...
          */
-        App\Providers\AppServiceProvider::class,
-        App\Providers\AuthServiceProvider::class,
-        // App\Providers\BroadcastServiceProvider::class,
-        App\Providers\EventServiceProvider::class,
-        App\Providers\RouteServiceProvider::class,
-
-        Barryvdh\DomPDF\ServiceProvider::class,
-        Maatwebsite\Excel\ExcelServiceProvider::class,
-        Tymon\JWTAuth\Providers\LaravelServiceProvider::class,
-        Mews\Captcha\CaptchaServiceProvider::class,
-        \App\Providers\CustomFacadesServiceProvider::class,
+//        App\Providers\AppServiceProvider::class,
+//        App\Providers\AuthServiceProvider::class,
+//        // App\Providers\BroadcastServiceProvider::class,
+//        App\Providers\EventServiceProvider::class,
+//        App\Providers\RouteServiceProvider::class,
+//
+//        Barryvdh\DomPDF\ServiceProvider::class,
+//        Maatwebsite\Excel\ExcelServiceProvider::class,
+//        Tymon\JWTAuth\Providers\LaravelServiceProvider::class,
+//        Mews\Captcha\CaptchaServiceProvider::class,
+//        \App\Providers\CustomFacadesServiceProvider::class,
 
 
     ],

@@ -5,15 +5,14 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Model;
 //use Illuminate\Support\Facades\Auth;
 
-class Consumer extends Model
+class ApplicationType extends Model
 {
-    protected $table = "Consumers";
+    protected $table = "ApplicationTypes";
 
     protected $primaryKey = "id";
 
     protected $fillable = [
-        'user_id',
-        'phone_number',
+        'application_type_name',
         'created_by',
         'updated_by'
     ];
@@ -28,12 +27,9 @@ class Consumer extends Model
         'remember_token',
     ];
 
-    public function user(){
-        return $this->hasOne('App\Models\User','id', 'user_id');
-    }
 
-    public function children(){
-        return $this->hasMany('App\Models\Children','parent_id', 'id');
+    public function applications(){
+        return $this->hasMany('App\Models\Application','application_type_id', 'id');
     }
 
 }

@@ -4,15 +4,18 @@
 1.настраиваем базу в .env
 2.composer install
 3.php artisan key:generate
-4.default Lng /app/Http/Middleware/SetLang.php
-
 
 Run Migrations
 
-php artisan migrate
-php artisan migrate --path="database/migrations/Bank" 
-php artisan migrate --path="database/migrations/Crypto"
- 
+php artisan migrate:refresh
+php artisan migrate:refresh --path="database/migrations/Menu" 
+
+php artisan clear-compiled 
+composer dump-autoload
+php artisan optimize
+
+php artisan db:seed --class=DatabaseSeeder 
+
 -----BL------ 
 php artisan migrate
 php artisan migrate --path="database/migrations/BL"

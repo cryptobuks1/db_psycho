@@ -5,15 +5,16 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Model;
 //use Illuminate\Support\Facades\Auth;
 
-class Consumer extends Model
+class Diagnosis extends Model
 {
-    protected $table = "Consumers";
+    protected $table = "Diagnoses";
 
     protected $primaryKey = "id";
 
     protected $fillable = [
-        'user_id',
-        'phone_number',
+        'diagnosis_group_id',
+        'name',
+        'code',
         'created_by',
         'updated_by'
     ];
@@ -28,12 +29,9 @@ class Consumer extends Model
         'remember_token',
     ];
 
-    public function user(){
-        return $this->hasOne('App\Models\User','id', 'user_id');
-    }
 
-    public function children(){
-        return $this->hasMany('App\Models\Children','parent_id', 'id');
+    public function diagnosis_group(){
+        return $this->hasMany('App\Models\DiagnosisGroup','id', 'diagnosis_group_id');
     }
 
 }
